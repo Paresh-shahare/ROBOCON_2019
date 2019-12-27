@@ -3,7 +3,7 @@
 ***Robocon is an International level robotics competition hosted by ABU. Robocon 19 was hosted by Mongolia with the challenge to develop 2 autonomous robots amongst which 1 was a Quadruped Robot.***
 
 We designed an autonomous quadruped bot inspired from the anatomy of a horse.
-![*Autonomous Quadruped bot*](https://github.com/ash2703/Robocon-19/raw/master/images/best-bot){:height="300px" width="175px"}
+![*Autonomous Quadruped bot*](https://github.com/ash2703/Robocon-19/raw/master/images/best-bot)
 
 4 legs of the bot consists of 8 revolute joints i.e. each leg consists of 2 revolute joints. Revolute action is performed with the help of digital servos capable of rotating 0-120 degrees precisely.
 
