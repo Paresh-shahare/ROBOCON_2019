@@ -1,0 +1,11 @@
+rc phase shift oscill.
+wein bridge
+heartley 
+colpitt
+crystal
+
+as bjt and opamp
+
+mosfet as digital logic gates
+power amplifier lvl a b c
+

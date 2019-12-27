@@ -1,0 +1,4 @@
+front right centre 80  0 pe piche
+front left  centre 40  0 pe age
+back left  centre  40  0 pe age
+back right  centre 80  0 pe piche
