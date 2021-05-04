@@ -2,6 +2,9 @@
 
 ***Robocon is an International level robotics competition hosted by ABU. Robocon 19 was hosted by Mongolia with the challenge to develop 2 autonomous robots amongst which 1 was a Quadruped Robot.***
 
+
+![Alt Text](ROBOCON_2019/Quadruped_walk_demo.gif)
+
 We designed an autonomous quadruped bot inspired from the anatomy of a horse.
 ![*Autonomous Quadruped bot*](https://github.com/paresh1997/ROBOCON_2019/blob/master/ROBOCON_2019/images/best-bot.PNG)
 
